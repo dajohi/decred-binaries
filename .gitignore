@@ -1,6 +1,10 @@
 *~
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+archive
+>>>>>>> Add archive dir to .gitignore
 bin
 release
 >>>>>>> Initial commit
